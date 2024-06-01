@@ -6,3 +6,4 @@ COPY ./package.json ./
 COPY ./yarn-lock.json ./
 
 RUN npm install
+
